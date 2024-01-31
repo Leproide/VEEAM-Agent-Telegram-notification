@@ -9,7 +9,7 @@ Edit the script with your data
     $Telegramchatid = "CHANGE_ME"
 
 
-You can set a custom text for the title
+You can set a custom text for the message first line
 
     $CustomString = "CUSTOMER: Example"
 
