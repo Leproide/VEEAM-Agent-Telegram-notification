@@ -3,6 +3,12 @@
 Use Telegram as notification service for Veeam Agent by powershell script
 
 You need a bot token and chatid.
+Edit the script with your data
+
+'''
+    $Telegramtoken = "CHANGE_ME"
+    $Telegramchatid = "CHANGE_ME"
+'''
 
 In the code you can set the max age of event registry entry for prevent duplicate notification.
 
