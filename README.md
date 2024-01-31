@@ -18,3 +18,7 @@ And configure in this way:
 ![immagine](https://github.com/Leproide/VEEAM-Agent-Telegram-notification/assets/8448713/945c7cde-30f7-4bd2-8104-2199297aca70)
 
 ![immagine](https://github.com/Leproide/VEEAM-Agent-Telegram-notification/assets/8448713/c56ea9e7-5894-4b9a-a3c5-188c3ec56780)
+
+Result:
+
+![immagine](https://github.com/Leproide/VEEAM-Agent-Telegram-notification/assets/8448713/3d103a29-6db1-4f50-9809-74c8462bb408)
