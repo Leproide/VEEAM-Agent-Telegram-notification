@@ -9,7 +9,11 @@ Edit the script with your data
     $Telegramchatid = "CHANGE_ME"
 
 
-In the code you can set the max age of event registry entry for prevent duplicate notification.
+In the code you can set the max age of event registry entry for prevent duplicate notification, default 10 minute
+
+'''
+($TimeDifference.TotalMinutes -gt 10)
+'''
 
 Set a new scheduled activity like this:
 
