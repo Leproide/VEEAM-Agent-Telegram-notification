@@ -13,7 +13,7 @@ Set a new scheduled activity like this:
 And configure in this way:
 
 1. Program: Powershell.exe
-2. Argument: Script path (example C:\VeemNotify.ps1)
+2. Argument: Script path (example C:\VeeamNotify.ps1)
 
 ![immagine](https://github.com/Leproide/VEEAM-Agent-Telegram-notification/assets/8448713/945c7cde-30f7-4bd2-8104-2199297aca70)
 
