@@ -9,6 +9,10 @@ Edit the script with your data
     $Telegramchatid = "CHANGE_ME"
 
 
+You can set a custom text for the title
+
+    $CustomString = "CUSTOMER: Example"
+
 In the code you can set the max age of event registry entry for prevent duplicate notification, default 10 minute
 
 
