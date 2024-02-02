@@ -1,6 +1,6 @@
 # VEEAM Agent Telegram notification with Powershell
 
-Use Telegram as notification service for Veeam Agent by powershell script
+Use Telegram as notification service for Veeam Agent on Windows by powershell script
 
 You need a bot token and chatid.
 Edit the script with your data
