@@ -34,7 +34,7 @@ Function Send-Telegram {
     $CustomString = "CUSTOMER: Example"
 
 # Get the last event with ID 190
-$A = Get-WinEvent -MaxEvents 1 -FilterHashTable @{Logname = "Veeam Agent"; ID = 190}
+$A = Get-WinEvent -MaxEvents 1 -FilterHashTable @{Logname = "Veeam Agent"; ID = 190, 191}
 if ($A) {
     $Message = $A.Message
     $EventTime = $A.TimeCreated
